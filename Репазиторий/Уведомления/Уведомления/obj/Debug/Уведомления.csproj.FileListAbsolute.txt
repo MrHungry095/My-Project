@@ -1,0 +1,17 @@
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormAdmin.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormAnnouncementDetails.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormAnnouncements.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormCreateAnnouncement.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormLogin.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormRegister.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.Properties.Resources.resources
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Уведомления\Уведомления\bin\Debug\Уведомления.exe.config
+C:\Users\Админ\source\repos\Уведомления\Уведомления\bin\Debug\Уведомления.exe
+C:\Users\Админ\source\repos\Уведомления\Уведомления\bin\Debug\Уведомления.pdb
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.exe
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.pdb
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.exe.config
+C:\Users\Админ\source\repos\Уведомления\Уведомления\obj\Debug\Уведомления.FormUserManagement.resources
